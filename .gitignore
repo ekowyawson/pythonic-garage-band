@@ -5,6 +5,7 @@
 .venv/
 .venv*
 venv
+.notes/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
